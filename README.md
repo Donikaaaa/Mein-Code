@@ -17,3 +17,9 @@ print(funktion("Nebikerstrasse" + str(77)))
 def funktion(Platz, Ort):
     g = Platz + Ort
 print(funktion(str (6247) + "Schötz" ))
+
+
+Features: Es kann einen Brief adressieren. Es hat eine Deutsche Benutzeroberfläche. Es ist toll. 
+
+Reflexion: Ich habe gelernt wie man Loops erstellen kann.
+Ich habe ausserdem verschiedene Fachbegriffe für das Programmieren angeht.
